@@ -1,15 +1,15 @@
 dw-stand
 
-Stand art assets for 双狼卡（在狼的身下挣扎吧 v2.0）.
+立绘资源仓库 · 双狼卡（二创）。
 
-Naming (no spaces, no parentheses):
-<EnglishName><OutfitCode><A|B>_<n>.png
+命名规则（不含空格和括号）：
+<角色英文名><服装代码><A|B>_<序号>.png
 
-Example:
+示例：
   TexasDefaultA_1.png
   TexasDefaultB_1.png
 
-Roles: Texas / Lappland / Exusiai / Mostima / Sora
-Outfit codes come from OUTFITS in the card (Default by default).
+角色：Texas / Lappland / Exusiai / Mostima / Sora
+服装代码来自卡里的 OUTFITS（默认 Default）。
 
-Site: https://huua436661.github.io/dw-stand/
+站点：https://huua436661.github.io/dw-stand/
